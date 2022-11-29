@@ -3,3 +3,5 @@
 
 - **Minimal API** Configuration: [Program.cs](/Minimal.Api/Program.cs)
 - **Integration Testing** (using WebApplicationFactory and NUnit): [ProductsTests.cs](/Minimal.IntegrationTests/ProductsTests.cs)
+
+For tutorial see this article: [https://adolfi.dev/blog/dotnet-minimal-api-integration-testing-using-webapplicationfactory-and-nunit/](https://adolfi.dev/blog/dotnet-minimal-api-integration-testing-using-webapplicationfactory-and-nunit/)
