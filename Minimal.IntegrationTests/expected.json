@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Table",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name": "Chair",
+    "price": 200
+  },
+  {
+    "id": 3,
+    "name": "Desk",
+    "price": 300
+  },
+  {
+    "id": 4,
+    "name": "Computer",
+    "price": 400
+  },
+  {
+    "id": 5,
+    "name": "Beer fridge",
+    "price": 500
+  }
+]
